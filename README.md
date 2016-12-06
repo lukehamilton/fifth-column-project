@@ -2,5 +2,5 @@
 
 Assumes, you have Node.js installed.
 
-`npm install`
+`npm install`<br/>
 `node app.js`
