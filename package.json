@@ -1,0 +1,7 @@
+{
+  "name": "interview-project",
+  "dependencies": {
+    "request-promise": "*",
+    "node-geocoder": "*"
+  }
+}
